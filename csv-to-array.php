@@ -1,3 +1,4 @@
+<?php
 /*
  * Import a CSV file into a php array
  */
