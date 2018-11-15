@@ -1,3 +1,4 @@
+<?php
 /*
  * Extends PHP explode() to multiexplode() with multiple explode characters
  */
